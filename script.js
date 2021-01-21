@@ -1,4 +1,4 @@
-var timeremaining = 1500000;
+var timeremaining = 10000;
 var h, s;
 var timebool = true;
 var interval;
